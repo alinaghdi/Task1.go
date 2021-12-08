@@ -1,0 +1,9 @@
+Application for the position of Data Scientist.
+
+Dear divar recruitment team,
+I am writing to apply for a job as a data scientist in a divar company. My good problem-solving and analysis skills, relatively strong knowledge of mathematics and applied statistics, several years of coding experience in curriculum projects, and my level of education makes me perfect for this position.
+I recently graduated from the University of Tehran with a degree in artificial intelligence. In the project I was involved with, I used machine learning. I can say that I am the first person in the Faculty of Electrical and Computer Engineering of the University of Tehran to do research and implementation in social reinforcement learning. During my master's degree, I have taken courses related to data science, such as machine learning, statistical inference, interactive learning, data analysis, and big data, and I have good experience in this field.
+I'm excited to apply for a divar company because I admire you. I think you are one of the best companies in the field of data. The operation of your recommendation system, etc., is attractive to me. As a data scientist, I will have unwavering curiosity, creativity, and a great deal of effort to master my skills in finding algorithms that work best for both the company and consumers. It is desirable, valuable, and important for me to start from a place like a divar as the beginning of my career.
+Thank you for taking the time to review my application. I look forward to hearing from you.
+Sincerely,
+Ali Naghdi
